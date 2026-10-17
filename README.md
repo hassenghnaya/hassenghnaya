@@ -24,6 +24,44 @@ Je construis des outils d'infrastructure de bout en bout : du noyau réseau au S
 
 ---
 
+## 🏢 Mes autres projets (privés)
+
+### 🕐 Pointeuse RH — système complet de gestion des pointages
+
+| Composant | Rôle |
+|---|---|
+| `pointeuse-backend` | API + logique métier (Dart) |
+| `pointeuse-client` | Client de pointage (TypeScript) |
+| `pointeuse-tablette` | Interface tablette (TypeScript) |
+| `pointeuse-backoffice` | Administration RH (TypeScript) |
+
+### 📞 Suite télécom & call-center
+
+| Projet | Rôle |
+|---|---|
+| `callflow-iprn` | Plateforme de flux d'appels IPRN (TypeScript) |
+| `autodialer` | Composeur automatique d'appels |
+| `callback` | Gestion des rappels clients (PHP) |
+| `crm` | Gestion relation client |
+
+### 🧾 Suite ERP & vente
+
+| Projet | Rôle |
+|---|---|
+| `erp` | ERP métier (Dart) |
+| `vente` | Module de vente (TypeScript) |
+| `client-app` | Portail client (Dart) |
+| `admin-app` | Administration (Dart) |
+| `appv2`, `app-mt`, `mobile` | Applications métier (Dart) |
+| `point-rh` | Module RH (Dart) |
+| `reception` | Interface de réception (HTML) |
+
+### 🍔 Public
+
+- **`urbanfood-stagiaire`** — projet stagiaire UrbanFood & Co (frontend React)
+
+---
+
 ## 🛠️ Stack de prédilection
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
