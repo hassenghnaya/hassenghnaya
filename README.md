@@ -1,11 +1,9 @@
 <div align="center">
 
-# Hassen Ghnaya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hassen%20Ghnaya&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Engineer%20·%20Network%20Infrastructure%20·%20SaaS&descAlignY=68&fontAlignY=42" width="100%" alt="Hassen Ghnaya" />
 
-### Full-Stack Engineer · Network Infrastructure · SaaS Platforms
-
-*De l'idée au produit : je conçois des plateformes complètes — noyau réseau,
-API de coordination, consoles utilisateur et facturation.*
+*De l'idée au produit : je conçois des plateformes complètes —
+noyau réseau, API de coordination, consoles utilisateur et facturation.*
 
 [![Email pro](https://img.shields.io/badge/hassen@urbanfood--co.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassen@urbanfood-co.com)
 [![WhatsApp](https://img.shields.io/badge/+216_93_633_599-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21693633599)
@@ -29,37 +27,35 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 ## 🧠 Expertise
 
 ### 🔧 Backend & Systèmes
+
 | Domaine | Compétences |
-|---|---|
-| **Langages** | Go (coordinateur, agents, API REST) · Dart (services métier) · PHP |
-| **Réseau** | VPN mesh, WireGuard, IKEv2 natif, routage, NAT traversal, adressage |
+|:---|:---|
+| **Langages** | Go — coordinateur, agents, API REST · Dart — services métier · PHP |
+| **Réseau** | VPN mesh · WireGuard · IKEv2 natif · routage · NAT traversal · adressage |
 | **Données** | MariaDB/MySQL · PostgreSQL — schémas, migrations, indexation, rétention |
 | **Déploiement** | Docker · Kubernetes · services Windows/Linux · reverse proxies |
 
 ### 🔐 Sécurité & Identité
+
 | Domaine | Compétences |
-|---|---|
-| **Auth** | Sessions, bcrypt, 2FA TOTP (RFC 6238), OIDC/SSO |
-| **Durcissement** | CSP strict, audit SQL, rate-limiting, tokens signés |
+|:---|:---|
+| **Auth** | Sessions · bcrypt · 2FA TOTP (RFC 6238) · OIDC/SSO |
+| **Durcissement** | CSP strict · audit SQL · rate-limiting · tokens signés |
 
 ### 🎨 Frontend & Produit
+
 | Domaine | Compétences |
-|---|---|
+|:---|:---|
 | **Framework** | React 18 · TypeScript strict · Vite · TanStack Query · CSS Modules |
 | **Qualité** | Playwright e2e · axe/WCAG · CI GitHub Actions |
-| **Design** | Design system, charts SVG, layouts responsive, UX commerciale |
+| **Design** | Design system · charts SVG · layouts responsive · UX commerciale |
 
 ### 💳 SaaS & Facturation
+
 | Domaine | Compétences |
-|---|---|
-| **Paiement** | Stripe Checkout, webhooks vérifiés, offres à quotas |
-| **Multi-tenant** | Comptes, rôles délégués, sièges facturés, back-office KPI |
-
----
-
-## 🌐 Domaines d'expérience
-
-`VPN / Sécurité` · `Télécom & call-center` · `RH / pointage` · `ERP & vente` · `Applications métier`
+|:---|:---|
+| **Paiement** | Stripe Checkout · webhooks vérifiés · offres à quotas |
+| **Multi-tenant** | Comptes · rôles délégués · sièges facturés · back-office KPI |
 
 ---
 
@@ -72,6 +68,7 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -86,15 +83,13 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 
 ---
 
-## 📊 En chiffres
+## � Activité & contributions
 
 <div align="center">
 
-| | |
-|---|---|
-| **20+ projets livrés** | VPN mesh, pointeuse RH, télécom, ERP, apps métier |
-| **5 langages** | Go · TypeScript · Dart · PHP · SQL |
-| **Full-cycle** | protocole → API → UI → données → sécurité → déploiement |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassenghnaya&theme=github-light&hide_border=true&area=true&custom_title=Activit%C3%A9%20de%20contribution" width="96%" alt="Graphe d'activité" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassenghnaya&theme=github" width="96%" alt="Détail du profil" />
 
 </div>
 
@@ -106,12 +101,12 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 
 **Disponible pour projets, missions & collaborations.**
 
-📱 **[+216 93 633 599](https://wa.me/21693633599)** (téléphone · WhatsApp)
-📧 **[hassen@urbanfood-co.com](mailto:hassen@urbanfood-co.com)** (pro)
-📧 **[hassenghnaya9@gmail.com](mailto:hassenghnaya9@gmail.com)** (perso)
+| 📱 Téléphone & WhatsApp | 📧 Email pro | 📧 Email perso |
+|:---:|:---:|:---:|
+| **[+216 93 633 599](https://wa.me/21693633599)** | **[hassen@urbanfood-co.com](mailto:hassen@urbanfood-co.com)** | **[hassenghnaya9@gmail.com](mailto:hassenghnaya9@gmail.com)** |
+
+<br/>
+
+*Full-stack · réseau · SaaS — du protocole à la facturation.*
 
 </div>
-
-<p align="center">
-  <i>Full-stack · réseau · SaaS — du protocole à la facturation.</i>
-</p>
