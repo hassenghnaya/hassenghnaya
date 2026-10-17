@@ -87,7 +87,7 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassenghnaya&theme=github-light&hide_border=true&area=true&custom_title=Activit%C3%A9%20de%20contribution" width="96%" alt="Graphe d'activité" />
+<img src="https://ghchart.rshah.org/0A66C2/hassenghnaya" width="96%" alt="Contributions" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassenghnaya&theme=github" width="96%" alt="Détail du profil" />
 
