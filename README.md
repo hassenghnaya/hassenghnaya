@@ -1,61 +1,112 @@
+<div align="center">
+
 # Hassen Ghnaya
 
-**Full-stack engineer — infrastructure réseau, plateformes SaaS & back-office.**
+### Full-Stack Engineer · Network Infrastructure · SaaS Platforms
 
-Je conçois des systèmes complets de bout en bout : noyau réseau, API de coordination, console utilisateur, facturation. Actuellement sur **SkyLink**, une plateforme VPN mesh managée de bout en bout.
+*De l'idée au produit : je conçois des plateformes complètes — noyau réseau,
+API de coordination, consoles utilisateur et facturation.*
 
----
+[![Email pro](https://img.shields.io/badge/hassen@urbanfood--co.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassen@urbanfood-co.com)
+[![WhatsApp](https://img.shields.io/badge/+216_93_633_599-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21693633599)
+[![Email perso](https://img.shields.io/badge/hassenghnaya9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassenghnaya9@gmail.com)
 
-## 🧠 Compétences
-
-### Backend & infrastructure
-- **Go** — services de coordination, agents système, API REST, concurrence, `embed`
-- **Réseau** — VPN mesh, tunnels chiffrés (WireGuard), IKEv2, adressage, routage, NAT traversal
-- **Sécurité** — 2FA TOTP (RFC 6238), bcrypt, OIDC/SSO, CSP strict, audit SQL, gestion de sessions
-- **Base de données** — MariaDB/MySQL : schémas, migrations idempotentes, indexation, rétention
-- **Dart** — services backend métier et APIs applicatives
-
-### Frontend & produit
-- **React 18 + TypeScript + Vite** — architecture par routes, TanStack Query, charts SVG sur mesure
-- **Design system** — composants accessibles (axe/WCAG), CSS modules, layouts responsive
-- **UX commerciale** — onboarding public, pages d'offres, back-office KPI/graphiques
-
-### SaaS & métier
-- **Facturation** — Stripe Checkout + webhooks signés, offres à quotas, sièges facturés
-- **Multi-tenancy** — comptes, rôles (client / admin réseau / admin), délégation par réseau
-- **Qualité** — Playwright e2e, tests d'accessibilité, CI GitHub Actions, tests Go
-
-### Secteurs couverts
-Télécom & call-center · RH (pointage) · ERP/vente · VPN/sécurité
+</div>
 
 ---
 
-## 🛠️ Stack
+## 💼 Ce que je fais
+
+**Infrastructure réseau & SaaS commercial.** Je livre des systèmes de production
+entiers — du tunnel chiffré au portail de facturation — en maîtrisant chaque
+couche : protocole, backend, frontend, données, sécurité, déploiement.
+
+> Projet de référence : **SkyLink** — plateforme VPN mesh managée de A à Z
+> (coordinateur Go, agents, console React, back-office Stripe).
+
+---
+
+## 🧠 Expertise
+
+### 🔧 Backend & Systèmes
+| Domaine | Compétences |
+|---|---|
+| **Langages** | Go (coordinateur, agents, API REST) · Dart (services métier) · PHP |
+| **Réseau** | VPN mesh, WireGuard, IKEv2 natif, routage, NAT traversal, adressage |
+| **Données** | MariaDB/MySQL — schémas, migrations idempotentes, indexation, rétention |
+
+### 🔐 Sécurité & Identité
+| Domaine | Compétences |
+|---|---|
+| **Auth** | Sessions, bcrypt, 2FA TOTP (RFC 6238), OIDC/SSO |
+| **Durcissement** | CSP strict, audit SQL, rate-limiting, tokens signés |
+
+### 🎨 Frontend & Produit
+| Domaine | Compétences |
+|---|---|
+| **Framework** | React 18 · TypeScript strict · Vite · TanStack Query · CSS Modules |
+| **Qualité** | Playwright e2e · axe/WCAG · CI GitHub Actions |
+| **Design** | Design system, charts SVG, layouts responsive, UX commerciale |
+
+### 💳 SaaS & Facturation
+| Domaine | Compétences |
+|---|---|
+| **Paiement** | Stripe Checkout, webhooks vérifiés, offres à quotas |
+| **Multi-tenant** | Comptes, rôles délégués, sièges facturés, back-office KPI |
+
+---
+
+## 🌐 Domaines d'expérience
+
+`VPN / Sécurité` · `Télécom & call-center` · `RH / pointage` · `ERP & vente` · `Applications métier`
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 📊 Stats
+## 📊 Activité
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassenghnaya&show_icons=true&theme=gruvbox_light&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenghnaya&layout=compact&theme=gruvbox_light&hide_border=true" height="150" alt="Langages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hassenghnaya&theme=gruvbox_light&hide_border=true" alt="Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=hassenghnaya&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" height="150" alt="Stats GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenghnaya&layout=compact&theme=gruvbox_light&hide_border=true" height="150" alt="Langages" />
+
+<img src="https://streak-stats.demolab.com/?user=hassenghnaya&theme=gruvbox_light&hide_border=true" alt="Streak" />
+
+</div>
 
 ---
 
+## 📬 Travaillons ensemble
+
+<div align="center">
+
+**Disponible pour projets, missions & collaborations.**
+
+📱 **[+216 93 633 599](https://wa.me/21693633599)** (téléphone · WhatsApp)
+📧 **[hassen@urbanfood-co.com](mailto:hassen@urbanfood-co.com)** (pro)
+📧 **[hassenghnaya9@gmail.com](mailto:hassenghnaya9@gmail.com)** (perso)
+
+</div>
+
 <p align="center">
-  <i>Architecture réseau · SaaS commercial · produit de bout en bout</i>
+  <img src="https://komarev.com/ghpvc/?username=hassenghnaya&style=flat-square&color=0A66C2" alt="Vues du profil" />
 </p>
