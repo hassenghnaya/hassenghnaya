@@ -1,85 +1,53 @@
-# Salut, je suis Hassen 👋
+# Hassen Ghnaya
 
-**Fondateur & développeur — je conçois SkyLink, une plateforme VPN mesh complète.**
+**Full-stack engineer — infrastructure réseau, plateformes SaaS & back-office.**
 
-Je construis des outils d'infrastructure de bout en bout : du noyau réseau au SaaS commercial, en passant par le back-office de facturation.
-
----
-
-## 🚀 Projet phare : SkyLink VPN
-
-> VPN mesh managé de nouvelle génération — architecture type ZeroTier, entièrement propriétaire.
-
-| Couche | Stack |
-|---|---|
-| **Coordinateur** | Go — API REST, orchestration réseau, auth, OIDC, 2FA TOTP |
-| **Agent** | Go — tunnel chiffré, service Windows/Linux, installateur |
-| **Console** | React 18 + TypeScript + Vite — routage, TanStack Query, charts SVG |
-| **Back-office** | Comptes, offres (Free/Pro/Business), sièges « admin réseau », quotas |
-| **Données** | MariaDB — comptes, offres, audit, sessions, tokens |
-| **Facturation** | Stripe Checkout + webhooks signés |
-| **Sécurité** | CSP stricte, bcrypt, audit SQL, TOTP RFC 6238, TLS |
-
-**Couverture :** 120+ fichiers · Playwright e2e + axe accessibilité · CI GitHub Actions
+Je conçois des systèmes complets de bout en bout : noyau réseau, API de coordination, console utilisateur, facturation. Actuellement sur **SkyLink**, une plateforme VPN mesh managée de bout en bout.
 
 ---
 
-## 🏢 Mes autres projets (privés)
+## 🧠 Compétences
 
-### 🕐 Pointeuse RH — système complet de gestion des pointages
+### Backend & infrastructure
+- **Go** — services de coordination, agents système, API REST, concurrence, `embed`
+- **Réseau** — VPN mesh, tunnels chiffrés (WireGuard), IKEv2, adressage, routage, NAT traversal
+- **Sécurité** — 2FA TOTP (RFC 6238), bcrypt, OIDC/SSO, CSP strict, audit SQL, gestion de sessions
+- **Base de données** — MariaDB/MySQL : schémas, migrations idempotentes, indexation, rétention
+- **Dart** — services backend métier et APIs applicatives
 
-| Composant | Rôle |
-|---|---|
-| `pointeuse-backend` | API + logique métier (Dart) |
-| `pointeuse-client` | Client de pointage (TypeScript) |
-| `pointeuse-tablette` | Interface tablette (TypeScript) |
-| `pointeuse-backoffice` | Administration RH (TypeScript) |
+### Frontend & produit
+- **React 18 + TypeScript + Vite** — architecture par routes, TanStack Query, charts SVG sur mesure
+- **Design system** — composants accessibles (axe/WCAG), CSS modules, layouts responsive
+- **UX commerciale** — onboarding public, pages d'offres, back-office KPI/graphiques
 
-### 📞 Suite télécom & call-center
+### SaaS & métier
+- **Facturation** — Stripe Checkout + webhooks signés, offres à quotas, sièges facturés
+- **Multi-tenancy** — comptes, rôles (client / admin réseau / admin), délégation par réseau
+- **Qualité** — Playwright e2e, tests d'accessibilité, CI GitHub Actions, tests Go
 
-| Projet | Rôle |
-|---|---|
-| `callflow-iprn` | Plateforme de flux d'appels IPRN (TypeScript) |
-| `autodialer` | Composeur automatique d'appels |
-| `callback` | Gestion des rappels clients (PHP) |
-| `crm` | Gestion relation client |
-
-### 🧾 Suite ERP & vente
-
-| Projet | Rôle |
-|---|---|
-| `erp` | ERP métier (Dart) |
-| `vente` | Module de vente (TypeScript) |
-| `client-app` | Portail client (Dart) |
-| `admin-app` | Administration (Dart) |
-| `appv2`, `app-mt`, `mobile` | Applications métier (Dart) |
-| `point-rh` | Module RH (Dart) |
-| `reception` | Interface de réception (HTML) |
-
-### 🍔 Public
-
-- **`urbanfood-stagiaire`** — projet stagiaire UrbanFood & Co (frontend React)
+### Secteurs couverts
+Télécom & call-center · RH (pointage) · ERP/vente · VPN/sécurité
 
 ---
 
-## 🛠️ Stack de prédilection
+## 🛠️ Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Stats GitHub
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassenghnaya&show_icons=true&theme=gruvbox_light&hide_border=true" height="160" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenghnaya&layout=compact&theme=gruvbox_light&hide_border=true" height="160" alt="Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassenghnaya&show_icons=true&theme=gruvbox_light&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenghnaya&layout=compact&theme=gruvbox_light&hide_border=true" height="150" alt="Langages" />
 </p>
 
 <p align="center">
@@ -88,19 +56,6 @@ Je construis des outils d'infrastructure de bout en bout : du noyau réseau au S
 
 ---
 
-## 🎯 Ce sur quoi je travaille
-
-- 🌐 **SkyLink VPN** — migration console React, offres commerciales, sièges admin réseau
-- 🔐 Sécurité : 2FA TOTP, audit SQL, CSP stricte, SSO/OIDC
-- 💳 SaaS : Stripe, quotas, facturation par siège, back-office
-- 📱 Clients : profils IKEv2 natifs (iPhone/Android), agent Windows
-
----
-
-## 📫 Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-hassenghnaya-181717?style=for-the-badge&logo=github)](https://github.com/hassenghnaya)
-
 <p align="center">
-  <i>« De l'idée au produit : un seul développeur, une plateforme complète. »</i>
+  <i>Architecture réseau · SaaS commercial · produit de bout en bout</i>
 </p>
