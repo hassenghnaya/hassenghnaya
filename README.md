@@ -82,14 +82,15 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 
 ---
 
-## 📊 Activité
+## 📊 En chiffres
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hassenghnaya&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" height="150" alt="Stats GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenghnaya&layout=compact&theme=gruvbox_light&hide_border=true" height="150" alt="Langages" />
-
-<img src="https://streak-stats.demolab.com/?user=hassenghnaya&theme=gruvbox_light&hide_border=true" alt="Streak" />
+| | |
+|---|---|
+| **20+ projets livrés** | VPN mesh, pointeuse RH, télécom, ERP, apps métier |
+| **5 langages** | Go · TypeScript · Dart · PHP · SQL |
+| **Full-cycle** | protocole → API → UI → données → sécurité → déploiement |
 
 </div>
 
@@ -108,5 +109,5 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassenghnaya&style=flat-square&color=0A66C2" alt="Vues du profil" />
+  <i>Full-stack · réseau · SaaS — du protocole à la facturation.</i>
 </p>
