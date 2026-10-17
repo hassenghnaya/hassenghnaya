@@ -33,7 +33,8 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 |---|---|
 | **Langages** | Go (coordinateur, agents, API REST) · Dart (services métier) · PHP |
 | **Réseau** | VPN mesh, WireGuard, IKEv2 natif, routage, NAT traversal, adressage |
-| **Données** | MariaDB/MySQL — schémas, migrations idempotentes, indexation, rétention |
+| **Données** | MariaDB/MySQL · PostgreSQL — schémas, migrations, indexation, rétention |
+| **Déploiement** | Docker · Kubernetes · services Windows/Linux · reverse proxies |
 
 ### 🔐 Sécurité & Identité
 | Domaine | Compétences |
@@ -73,7 +74,10 @@ couche : protocole, backend, frontend, données, sécurité, déploiement.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
